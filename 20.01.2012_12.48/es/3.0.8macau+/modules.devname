@@ -1,0 +1,6 @@
+# Device nodes to trigger on-demand module loading.
+fuse fuse c10:229
+ppp_generic ppp c108:0
+tun net/tun c10:200
+snd_timer snd/timer c116:33
+snd_seq snd/seq c116:1
